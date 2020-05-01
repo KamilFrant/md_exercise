@@ -6,4 +6,5 @@
   * _podpunkt pierwszy_
   * __podpunkt drugi__
 
-> ![Random_picture](https://ps.w.org/advanced-random-posts-widget/assets/icon-256x256.png?rev=2046099)
+1. Picture
+   1. ![Random_picture](https://ps.w.org/advanced-random-posts-widget/assets/icon-256x256.png?rev=2046099)
